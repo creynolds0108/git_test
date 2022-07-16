@@ -1,0 +1,18 @@
+#box{
+    height: 175px;
+    width:400px;
+    position: relative;
+    border-bottom: opx solid;
+    border-top: opx solid;
+    background-color:#faebd7;
+    text-align: center;
+}
+.container{
+    border-left: opx solid;
+    border-right: opx solid;
+    position: relative;
+    top: auto;
+    bottom: auto;
+    text-align: center;
+    display: inline-block;
+}
